@@ -1,0 +1,10 @@
+D:\ASC Coding\crudukk\crudukk\bin\Debug\crudukk.exe.config
+D:\ASC Coding\crudukk\crudukk\bin\Debug\crudukk.exe
+D:\ASC Coding\crudukk\crudukk\bin\Debug\crudukk.pdb
+D:\ASC Coding\crudukk\crudukk\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\ASC Coding\crudukk\crudukk\obj\Debug\crudukk.DansCSCRUD.resources
+D:\ASC Coding\crudukk\crudukk\obj\Debug\crudukk.Properties.Resources.resources
+D:\ASC Coding\crudukk\crudukk\obj\Debug\Form1.csproj.GenerateResource.cache
+D:\ASC Coding\crudukk\crudukk\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+D:\ASC Coding\crudukk\crudukk\obj\Debug\crudukk.exe
+D:\ASC Coding\crudukk\crudukk\obj\Debug\crudukk.pdb
